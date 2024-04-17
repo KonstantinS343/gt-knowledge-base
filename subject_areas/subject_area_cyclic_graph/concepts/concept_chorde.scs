@@ -46,7 +46,7 @@ concept_chorde <- rrel_key_sc_element:
 concept_chorde <- rrel_key_sc_element: 
 	...
 	(*
-		<- sc_illustration;;
+		<- illustration;;
 		<= nrel_sc_text_translation:
 		...
 			(*

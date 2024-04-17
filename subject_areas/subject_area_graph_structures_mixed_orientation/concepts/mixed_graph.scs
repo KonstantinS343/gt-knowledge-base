@@ -34,7 +34,7 @@ concept_graph => nrel_inclusion: concept_mixed_graph;;
 concept_mixed_graph <- rrel_key_sc_element: 
 	...
 	(*
-		<- sc_illustration;;
+		<- illustration;;
 		<= nrel_sc_text_translation:
 		...
 			(*

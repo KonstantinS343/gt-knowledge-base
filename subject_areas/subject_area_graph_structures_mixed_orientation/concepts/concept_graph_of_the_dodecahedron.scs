@@ -22,7 +22,7 @@ concept_graph_of_the_dodecahedron <= nrel_inclusion:{ concept_polytop_graph; con
 
 concept_graph_of_the_dodecahedron <- rrel_key_sc_element: 
 	...(*
-		<- sc_illustration;;
+		<- illustration;;
 		<= nrel_sc_text_translation:
 		...
 			(*

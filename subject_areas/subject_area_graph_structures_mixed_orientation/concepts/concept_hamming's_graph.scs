@@ -40,7 +40,7 @@ concept_graph  => nrel_inclusion:concept_graph_of_Hamming;;
 concept_graph_of_Hamming <- rrel_key_sc_element: 
 	...
 	(*
-		<- sc_illustration;;
+		<- illustration;;
 		<= nrel_sc_text_translation:
 		...
 			(*

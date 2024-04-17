@@ -50,7 +50,7 @@ nrel_subdegrees_of_a_graph <- antitransitive_relation;;
 nrel_bicoloured_subgraph <- rrel_key_sc_element: 
 	...
 	(*
-		<- sc_illustration;;
+		<- illustration;;
 		<= nrel_sc_text_translation:
 		...
 			(*
